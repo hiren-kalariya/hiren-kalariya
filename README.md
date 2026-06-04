@@ -36,17 +36,19 @@ AI-powered platform for deploying, debugging, and managing Linux servers.
 
 🌐 https://ctrlops.io
 
-### 🔹 Toolplate
-
-AI-powered boilerplate and development acceleration platform.
-
-🌐 https://toolplateai.io
-
 ### 🔹 Wooffer
 
 Server monitoring and infrastructure observability platform.
 
 🌐 https://wooffer.io
+
+### 🔹 Toolplate
+
+AI tools directory.
+
+🌐 https://toolplateai.io
+
+
 
 ---
 
